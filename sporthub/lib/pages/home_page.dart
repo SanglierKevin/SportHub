@@ -67,7 +67,7 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
 
   void _createNewSession() {
     final newFileName = _generateNewFileName();
-    File('lib/sessions/$newFileName.txt').writeAsStringSync("[]");
+    File('lib/sessions/$newFileName.txt').writeAsStringSync("");
     _listFiles(); // Mettre à jour la liste des fichiers
 
     _navigateToFileContent(newFileName);

@@ -1,1 +1,1 @@
-[]
+[2,"x",(30,"s","Poirier"),[2,"x",(3,"x","Pompe"),(2,"x","Saut")]],[2,"x",(4,"x","Traction"),[3,"x",(30,"s","L-sit")]],(40,"s","Jumping Jacks")
